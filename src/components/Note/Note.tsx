@@ -1,5 +1,5 @@
 import { useDispatch, useSelector } from "react-redux";
-import {removeNote, updateNote} from "../../slice/notesSlice";
+import { updateNote } from "../../slice/notesSlice";
 import './Note.css';
 import {RootState} from "../../store/store";
 import Stub from "../Stub/Stub";
