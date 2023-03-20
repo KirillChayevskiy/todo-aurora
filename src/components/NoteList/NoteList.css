@@ -1,0 +1,11 @@
+.listContainer {
+    width: 240px;
+
+}
+
+.list {
+    padding-top: 5px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: 65vh;
+}

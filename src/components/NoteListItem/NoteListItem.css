@@ -1,0 +1,44 @@
+.itemContainer {
+    box-shadow: 5px 5px 10px #cbced1, -5px -5px 10px #ffffff;
+    border: none;
+    border-radius: 10px;
+    width: 200px;
+    height: 70px;
+    flex-direction: column;
+    display: flex;
+    margin: 10px 15px;
+}
+
+.selected {
+    background-color: #ffe8be;
+}
+
+.itemContainer:hover {
+    background-color: #f0f0f0
+}
+
+.selected:hover  {
+    background-color: #ecd7b0;
+}
+
+.itemTitle {
+    margin: 10px 7px 0px;
+    border-bottom: 1px solid #b8b8b8;
+    padding: 5px 0px;
+    text-align: start;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    height: 15px;
+    font-size: 18px;
+}
+
+.itemContent {
+    margin: 0px 7px 0px;
+    padding: 5px 0px;
+    text-align: start;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    font-size: 12px;
+}

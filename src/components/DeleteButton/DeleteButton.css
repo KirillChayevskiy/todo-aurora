@@ -1,0 +1,23 @@
+.deleteButtonContainer {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-left: 10px;
+}
+
+.deleteButton {
+    border-radius: 50%;
+    background-color: #fff;
+    width: 40px;
+    height: 40px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    box-shadow: 5px 5px 10px #cbced1, -5px -5px 10px #ffffff;
+}
+
+.deleteButton:hover {
+    background-color: #f0f0f0
+}

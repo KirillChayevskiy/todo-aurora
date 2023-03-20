@@ -1,0 +1,24 @@
+.searchContainer {
+    width: 200px;
+    display: flex;
+    box-shadow: 5px 5px 10px #cbced1, -5px -5px 10px #ffffff;
+    border-radius: 10px;
+    margin: 10px 15px;
+    padding: 5px 0px;
+    display: flex;
+    justify-content: start;
+    height: 30px;
+}
+
+.searchInput {
+    background-color: transparent;
+    outline: none;
+    font-size: 20px;
+    border: none;
+}
+
+.iconContainer {
+    margin: 0px 5px;
+    align-items: center;
+    display: flex;
+}
