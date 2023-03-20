@@ -10,7 +10,7 @@
 
 .button {
     border-radius: 50%;
-    background-color: white;
+    background-color: #f1f1f1;
     width: 40px;
     height: 40px;
     border: none;
@@ -22,11 +22,11 @@
 }
 
 .button:hover {
-    background-color: #f0f0f0
+    background-color: #e0e0e0;
 }
 
 .buttonText {
     font-size: 36px;
-    color: #bebebe;
+    color: #b2b2b2;
     margin-top: 32px;
 }

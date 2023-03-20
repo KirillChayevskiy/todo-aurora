@@ -9,7 +9,7 @@ const DeleteIcon = (props: SVGProps<SVGSVGElement>) => (
         xmlns="http://www.w3.org/2000/svg"
         {...props}
     >
-        <style>{".st0{fill:#b8b8b8}"}</style>
+        <style>{".st0{fill:#b2b2b2}"}</style>
         <g id="Icon-Trash" transform="translate(232 228)">
             <path className="st0" id="Fill-6" d="M-207.5-205.1h3v24h-3z" />
             <path className="st0" id="Fill-7" d="M-201.5-205.1h3v24h-3z" />
